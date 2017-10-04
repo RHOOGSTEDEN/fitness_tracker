@@ -1,8 +1,8 @@
 date = []
 run_time = []
-run_miles = []
+run_dist = []
 perso_rec = 0
 
-date += 'Oct 2, 2017'
-run_time += 30:00
-run_miles += 3.15
+new_date = 'Oct 2, 2017'
+new_time = 30:00
+new_dist = 3.15
